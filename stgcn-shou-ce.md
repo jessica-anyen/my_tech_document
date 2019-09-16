@@ -68,6 +68,8 @@ parser.add_argument('--openpose',
 
 建了一個環境叫nowpy3，執行時務必先切到這個環境
 
+
+
 ![](.gitbook/assets/image%20%2819%29.png)
 
 按下這個run鍵，選擇"open terminal"
@@ -132,9 +134,21 @@ C:\Users\MMN-AI\Documents\GitHub\st-gcn\data\openpose_estimation\data
 
 ![](.gitbook/assets/image%20%2821%29.png)
 
+{% hint style="info" %}
+0916後續補充
+{% endhint %}
 
+後續又有持續更新的版本，新的指令為
 
+```text
+mmskl
+```
 
+請改用
+
+```text
+python run.py
+```
 
 
 
