@@ -5,6 +5,10 @@ description: 一樣是奮鬥很久的過程....
 # st-gcn手冊
 
 {% hint style="info" %}
+190917更新
+
+label\_name.txt檔 中的動作名稱可以更改
+
 190910更新
 
 這套工具的原理，中文版文件: [https://www.leiphone.com/news/201802/sSRbW4I2M4HheARj.html](https://www.leiphone.com/news/201802/sSRbW4I2M4HheARj.html)
