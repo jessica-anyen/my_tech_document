@@ -22,7 +22,11 @@ code 解說板
 
 5. tf pose
 
-[https://github.com/ildoonet/tf-pose-estimation](https://github.com/ildoonet/tf-pose-estimation)
+{% embed url="https://github.com/ildoonet/tf-pose-estimation" %}
+
+6.cnn訓練教學
+
+[https://ithelp.ithome.com.tw/articles/10191924](https://ithelp.ithome.com.tw/articles/10191924)
 
 
 
