@@ -5,6 +5,12 @@ description: 當你成功的安裝完成以後....
 # openpose運行操作
 
 {% hint style="info" %}
+0926更新:影片儲存指令
+
+--write\_video name.avi ，預設存在openpose目錄下，可用放大鏡找檔案名比較快 
+{% endhint %}
+
+{% hint style="info" %}
 0827更新:重新bulid了一次，這次執行方法可用以下語法執行
 
 ```text
