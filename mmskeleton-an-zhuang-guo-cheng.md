@@ -33,7 +33,33 @@ mmskl_home = r'C:\Users\MMN-AI\Documents\GitHub\mmskeleton'
 
 -確定有安裝c++套件\(使用visual studio installer 的修改功能，補安裝"c++桌面開發"的功能\)
 
-![](.gitbook/assets/image%20%284%29.png)
+![](.gitbook/assets/image%20%286%29.png)
+
+-執行驗證
+
+```text
+python mmskl.py pose_demo
+```
+
+會出現問題:
+
+![](.gitbook/assets/image%20%281%29.png)
+
+這個要去安裝pycocotools
+
+參考: [http://tn00343140a.pixnet.net/blog/post/203329451](http://tn00343140a.pixnet.net/blog/post/203329451)
+
+-pycocotools安裝問題:
+
+{% embed url="https://blog.csdn.net/chixia1785/article/details/80040172" %}
+
+後來採用:直接註解掉" **/Wno-cpp"**相關的字
+
+![](.gitbook/assets/image%20%2820%29.png)
+
+安裝pycocotools成功，但後面還是有問題...
+
+
 
 
 

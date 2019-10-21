@@ -34,11 +34,11 @@ build\x64\Release\OpenPoseDemo.exe --video examples\media\video.mp4 --face --han
 
 跑起來超慢\(應該是一禎一秒...要提前終止請按esc\)、側面的手指找不出來
 
-![](.gitbook/assets/image%20%2813%29.png)
+![](.gitbook/assets/image%20%2815%29.png)
 
 不一定要顯現10隻手指也可以找到
 
-![](.gitbook/assets/image%20%2811%29.png)
+![](.gitbook/assets/image%20%2813%29.png)
 
 ### 2.輸出
 
@@ -64,7 +64,7 @@ build\x64\Release\OpenPoseDemo.exe --image_dir examples\media_weuse\ --write_key
 
 \#body 25
 
-![](.gitbook/assets/image%20%286%29.png)
+![](.gitbook/assets/image%20%288%29.png)
 
 | 代號/順序 | 部位 |
 | :--- | :--- |
