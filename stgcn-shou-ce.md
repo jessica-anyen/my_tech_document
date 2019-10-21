@@ -74,15 +74,15 @@ parser.add_argument('--openpose',
 
 
 
-![](.gitbook/assets/image%20%2819%29.png)
+![](.gitbook/assets/image%20%2820%29.png)
 
 按下這個run鍵，選擇"open terminal"
 
-![](.gitbook/assets/image%20%2825%29.png)
+![](.gitbook/assets/image%20%2826%29.png)
 
 前面的括號代表環境，可以確定現在的環境是nowpy3
 
-![](.gitbook/assets/image%20%287%29.png)
+![](.gitbook/assets/image%20%288%29.png)
 
 先切換路徑到專案底下
 
@@ -102,7 +102,7 @@ python main.py demo_old  --video C:/Users/MMN-AI/Documents/GitHub/st-gcn/resourc
 
 看到這個就代表python的api有跑成功
 
-![](.gitbook/assets/image%20%284%29.png)
+![](.gitbook/assets/image%20%285%29.png)
 
 看到這個就代表分析動作的結果生成了
 
@@ -122,21 +122,21 @@ C:\Users\MMN-AI\Documents\GitHub\st-gcn\data\openpose_estimation\snippets
 C:\Users\MMN-AI\Documents\GitHub\st-gcn\data\openpose_estimation\data
 ```
 
-![](.gitbook/assets/image%20%288%29.png)
+![](.gitbook/assets/image%20%289%29.png)
 
 分析結果的影片檔案比較大，使用windows的player打不開，需要右鍵&gt;使用其他媒體播放器
 
-![](.gitbook/assets/image%20%2823%29.png)
+![](.gitbook/assets/image%20%2824%29.png)
 
 ### 結果
 
 可以從右下方看到，雖然過程有預測人物在做其他動作，但最後只會有一個voting result，也就是人物在做什麼的結論
 
-![](.gitbook/assets/image%20%2815%29.png)
+![](.gitbook/assets/image%20%2816%29.png)
 
 嗯...雖然有些結果還是非常怪@@ \(這部片的人物在走路，但卻推論成在擲硬幣
 
-![](.gitbook/assets/image%20%2821%29.png)
+![](.gitbook/assets/image%20%2822%29.png)
 
 {% hint style="info" %}
 0916後續補充

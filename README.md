@@ -50,7 +50,7 @@ Windows 的話請下載 `cmake-X.X.X-win64-x64.msi`。
 
 重點在安裝的時候，c++相關的元件都要裝\(沒裝到可以用installer--&gt;modify\)
 
-![](.gitbook/assets/image%20%2816%29.png)
+![](.gitbook/assets/image%20%2817%29.png)
 
 ### 5.安裝cuda
 
@@ -74,7 +74,7 @@ source code 就是github code 載下來那包的位置
 
 build就是在那包code的位址下面建一個資料夾\(我是命名成build
 
-![](.gitbook/assets/image%20%286%29.png)
+![](.gitbook/assets/image%20%287%29.png)
 
 按下 Configure 按鈕（generator 記得選 Visual Studio 16 2019 Win64）\(圖片示意\)，按下finish
 
@@ -84,19 +84,19 @@ build就是在那包code的位址下面建一個資料夾\(我是命名成build
 
 
 
-![](.gitbook/assets/image%20%2817%29.png)
+![](.gitbook/assets/image%20%2818%29.png)
 
 等待Configure Done
 
-![](.gitbook/assets/image%20%2826%29.png)
+![](.gitbook/assets/image%20%2827%29.png)
 
 勾選bulid python\(這步一定要做\)，按下generate
 
-![](.gitbook/assets/image%20%2820%29.png)
+![](.gitbook/assets/image%20%2821%29.png)
 
 到build/OpenPose.sln路徑下，對專案右鍵--&gt;開啟檔案--&gt;選擇vs
 
-![](.gitbook/assets/image%20%289%29.png)
+![](.gitbook/assets/image%20%2810%29.png)
 
 切換到 **Release Mode** 並 Build Project  \(一定要用release mode!!\)
 
@@ -134,7 +134,7 @@ build\x64\Release\OpenPoseDemo.exe --image_dir examples\media\ --face --hand
 
 1.先對其中一個範例右鍵--&gt;設為"啟始專案"
 
-![](.gitbook/assets/image%20%2813%29.png)
+![](.gitbook/assets/image%20%2814%29.png)
 
 2.將要使用的圖片放在路徑:
 
@@ -142,15 +142,15 @@ build\x64\Release\OpenPoseDemo.exe --image_dir examples\media\ --face --hand
 
 3.回到vs，點開被設為啟始專案的目錄--&gt;source files--&gt;點開.cpp檔
 
-![](.gitbook/assets/image%20%2814%29.png)
+![](.gitbook/assets/image%20%2815%29.png)
 
 找到image path，將所使用的檔名+副檔名改上去
 
-![](.gitbook/assets/image%20%2822%29.png)
+![](.gitbook/assets/image%20%2823%29.png)
 
 release mode 下建置
 
-![](.gitbook/assets/image%20%2811%29.png)
+![](.gitbook/assets/image%20%2812%29.png)
 
 結果
 
@@ -188,7 +188,7 @@ build\x64\Release\OpenPoseDemo.exe --video examples\media\video.avi --face --han
 
 結果
 
-![](.gitbook/assets/image%20%2824%29.png)
+![](.gitbook/assets/image%20%2825%29.png)
 
 基本的就完成拉~
 
