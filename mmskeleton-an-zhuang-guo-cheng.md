@@ -55,6 +55,8 @@ python mmskl.py pose_demo
 
 後來採用:直接註解掉" **/Wno-cpp"**相關的字
 
+參考:[https://www.jianshu.com/p/de455d653301](https://www.jianshu.com/p/de455d653301)[https://www.jianshu.com/p/de455d653301](https://www.jianshu.com/p/de455d653301)
+
 ![](.gitbook/assets/image%20%2820%29.png)
 
 安裝pycocotools成功，但後面還是有問題...
