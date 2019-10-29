@@ -1,5 +1,27 @@
 # mmskeleton 安裝過程
 
+
+
+
+
+
+
+
+
+-windows docker 安裝
+
+[https://marcus116.blogspot.com/2019/01/docker-docker-for-windows.html](https://marcus116.blogspot.com/2019/01/docker-docker-for-windows.html)
+
+-docker 環境切換
+
+[https://marcus116.blogspot.com/2019/01/docker-image-operating-system-windows.html](https://marcus116.blogspot.com/2019/01/docker-image-operating-system-windows.html)
+
+-使用docker安裝方法
+
+[https://blog.csdn.net/cindy\_lxy/article/details/102631416](https://blog.csdn.net/cindy_lxy/article/details/102631416)
+
+----------------------------------------------------------------------------------------------------------------
+
 windows使用要改的地方
 
 -setup\_linux.py: 參考這篇"编译lib"處的改法
