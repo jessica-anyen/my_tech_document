@@ -20,6 +20,10 @@
 
 [https://blog.csdn.net/cindy\_lxy/article/details/102631416](https://blog.csdn.net/cindy_lxy/article/details/102631416)
 
+-mmdetection的docker容器pull方法
+
+[https://uzshare.com/view/781783](https://uzshare.com/view/781783)
+
 ----------------------------------------------------------------------------------------------------------------
 
 windows使用要改的地方
