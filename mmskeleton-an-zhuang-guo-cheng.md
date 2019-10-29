@@ -1,12 +1,30 @@
 # mmskeleton 安裝過程
 
+#### \#docker使用
 
+右下角--&gt;對小鯨魚右鍵--&gt;restart
 
+![](.gitbook/assets/image%20%2817%29.png)
 
+使用cmd或conda，於終端機輸入\(切換完後即可使用linux語法\):
 
+```text
+conda activate mmdetection
+```
 
+如果要確定有甚麼image
 
+```text
+docker images
+```
 
+active完切換路徑
+
+```text
+cd /home/mmdetection
+```
+
+就可以繼續安裝了
 
 -windows docker 安裝
 
@@ -83,7 +101,7 @@ python mmskl.py pose_demo
 
 參考:[https://www.jianshu.com/p/de455d653301](https://www.jianshu.com/p/de455d653301)[https://www.jianshu.com/p/de455d653301](https://www.jianshu.com/p/de455d653301)
 
-![](.gitbook/assets/image%20%2820%29.png)
+![](.gitbook/assets/image%20%2821%29.png)
 
 安裝pycocotools成功，但後面還是有問題...
 
