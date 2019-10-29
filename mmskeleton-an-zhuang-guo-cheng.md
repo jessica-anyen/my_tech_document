@@ -9,6 +9,12 @@
 使用cmd或conda，於終端機輸入\(切換完後即可使用linux語法\):
 
 ```text
+docker run -it -v /home:/mnt --shm-size 4G cheney0813/mmdetection /bin/bash
+```
+
+conda 環境切換
+
+```text
 conda activate mmdetection
 ```
 
@@ -38,7 +44,7 @@ cd /home/mmdetection
 
 [https://blog.csdn.net/cindy\_lxy/article/details/102631416](https://blog.csdn.net/cindy_lxy/article/details/102631416)
 
--mmdetection的docker容器pull方法
+-mmdetection的docker容器pull方法\(激活環境方法，有用\)
 
 [https://uzshare.com/view/781783](https://uzshare.com/view/781783)
 
