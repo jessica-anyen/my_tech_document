@@ -1,5 +1,19 @@
 # 需要嘗試的文件
 
+-gluon cv 資勢辨識
+
+[https://gluon-cv.mxnet.io/build/examples\_action\_recognition/demo\_ucf101.html\#sphx-glr-build-examples-action-recognition-demo-ucf101-py](https://gluon-cv.mxnet.io/build/examples_action_recognition/demo_ucf101.html#sphx-glr-build-examples-action-recognition-demo-ucf101-py)
+
+
+
+
+
+
+
+
+
+-
+
 1.動作連續判斷\(done
 
 [https://zhuanlan.zhihu.com/p/40574587](https://zhuanlan.zhihu.com/p/40574587)
