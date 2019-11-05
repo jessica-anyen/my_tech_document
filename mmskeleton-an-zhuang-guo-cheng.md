@@ -30,6 +30,12 @@ active完切換路徑
 cd /home/mmdetection
 ```
 
+啟動現有image
+
+```text
+docker run -it <image id> /bin/bash
+```
+
 就可以繼續安裝了
 
 -windows docker 安裝
