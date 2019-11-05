@@ -1,5 +1,11 @@
 # mmskeleton 安裝過程
 
+{% hint style="info" %}
+11/05補充:
+
+就算使用docker，windows系統還是會遇到無法安裝nvidia-docker的問題\(該套件不支援win\)，故會產生docker環境無法使用gpu的狀況....
+{% endhint %}
+
 #### \#docker使用
 
 右下角--&gt;對小鯨魚右鍵--&gt;restart
