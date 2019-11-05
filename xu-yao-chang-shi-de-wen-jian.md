@@ -4,7 +4,9 @@
 
 [https://github.com/TianzhongSong/Real-Time-Action-Recognition](https://github.com/TianzhongSong/Real-Time-Action-Recognition)
 
+-簡單定義大動作，可多人
 
+[https://github.com/felixchenfy/Realtime-Action-Recognition](https://github.com/felixchenfy/Realtime-Action-Recognition)
 
 
 
