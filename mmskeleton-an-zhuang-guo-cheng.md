@@ -42,6 +42,18 @@ cd /home/mmdetection
 docker run -it <image id> /bin/bash
 ```
 
+輸出目前環境
+
+```text
+docker export <container_id> > name.tar
+```
+
+還原指定環境
+
+```text
+docker load -i name.tar
+```
+
 就可以繼續安裝了
 
 -windows docker 安裝
