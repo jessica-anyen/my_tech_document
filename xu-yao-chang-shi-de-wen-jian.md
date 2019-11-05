@@ -8,7 +8,9 @@
 
 [https://github.com/felixchenfy/Realtime-Action-Recognition](https://github.com/felixchenfy/Realtime-Action-Recognition)
 
+-也是個識別
 
+[https://github.com/LZQthePlane/Online-Realtime-Action-Recognition-based-on-OpenPose](https://github.com/LZQthePlane/Online-Realtime-Action-Recognition-based-on-OpenPose)
 
 
 
