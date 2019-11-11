@@ -38,5 +38,7 @@ mpl.use('TKAgg')
 C:\Users\MMN-AI\Documents\GitHub\r_a_r\output\exercise
 ```
 
+#### \#限制
 
+不能使用單一張圖片，必須是連續影片
 
