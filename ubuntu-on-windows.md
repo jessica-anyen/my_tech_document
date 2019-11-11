@@ -4,6 +4,12 @@ description: 種種解決的過程...
 
 # Ubuntu on windows
 
+#### \#ubuntu github位置
+
+```text
+cd /mnt/c/Users/MMN-AI/Documents/GitHub
+```
+
 #### \#解決ubuntu on windows 無法呈現matplotlib的plt功能
 
 最有用的解法:
