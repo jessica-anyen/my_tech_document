@@ -30,5 +30,13 @@ mpl.use('TKAgg')
 
 才會正確跑出圖
 
+#### \#跑完的結果
+
+存放位置:
+
+```text
+C:\Users\MMN-AI\Documents\GitHub\r_a_r\output\exercise
+```
+
 
 
