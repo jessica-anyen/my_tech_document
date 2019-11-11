@@ -24,8 +24,11 @@ python run.py --model=mobilenet_thin --resize=432x368 --image=./images/p1.jpg
 在run. py中加上
 
 ```text
-
+import matplotlib as mpl
+mpl.use('TKAgg')
 ```
+
+才會正確跑出圖
 
 
 
