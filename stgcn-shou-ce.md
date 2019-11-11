@@ -78,7 +78,7 @@ parser.add_argument('--openpose',
 
 按下這個run鍵，選擇"open terminal"
 
-![](.gitbook/assets/image%20%2830%29.png)
+![](.gitbook/assets/image%20%2831%29.png)
 
 前面的括號代表環境，可以確定現在的環境是nowpy3
 

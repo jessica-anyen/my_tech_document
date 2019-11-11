@@ -88,7 +88,7 @@ build就是在那包code的位址下面建一個資料夾\(我是命名成build
 
 等待Configure Done
 
-![](.gitbook/assets/image%20%2831%29.png)
+![](.gitbook/assets/image%20%2832%29.png)
 
 勾選bulid python\(這步一定要做\)，按下generate
 
