@@ -44,7 +44,13 @@ python src/s5_test.py \
 
 多張圖片
 
-
+```text
+python src/s5_test.py \
+    --model_path model/trained_classifier.pickle \
+    --data_type folder \
+    --data_path data_test/file_name/ \
+    --output_folder output
+```
 
 #### \#跑完的結果
 
