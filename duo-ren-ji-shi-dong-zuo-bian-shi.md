@@ -32,6 +32,18 @@ mpl.use('TKAgg')
 
 #### \#demo
 
+影片
+
+```text
+python src/s5_test.py \
+    --model_path model/trained_classifier.pickle \
+    --data_type video \
+    --data_path data_test/name.mp4 \
+    --output_folder output
+```
+
+多張圖片
+
 
 
 #### \#跑完的結果
