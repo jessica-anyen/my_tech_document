@@ -83,6 +83,12 @@ s1_get_skeletons_from_training_imgs.py:
 
 52~59以及72~79是正在做跳躍的影格
 
+資料夾名稱格式 `"data/${sub_folder_name}_${current_time}"`, e.g.: `"data/none_04-18-17-37-33-376/"`
+
+#### \#訓練過程
+
+
+
 
 
 
