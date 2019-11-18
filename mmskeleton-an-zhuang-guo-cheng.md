@@ -10,7 +10,7 @@
 
 右下角--&gt;對小鯨魚右鍵--&gt;restart
 
-![](.gitbook/assets/image%20%2817%29.png)
+![](.gitbook/assets/image%20%2818%29.png)
 
 使用cmd或conda，於終端機輸入\(切換完後即可使用linux語法\):
 
@@ -107,7 +107,7 @@ mmskl_home = r'C:\Users\MMN-AI\Documents\GitHub\mmskeleton'
 
 -確定有安裝c++套件\(使用visual studio installer 的修改功能，補安裝"c++桌面開發"的功能\)
 
-![](.gitbook/assets/image%20%286%29.png)
+![](.gitbook/assets/image%20%287%29.png)
 
 -執行驗證
 
@@ -131,7 +131,7 @@ python mmskl.py pose_demo
 
 參考:[https://www.jianshu.com/p/de455d653301](https://www.jianshu.com/p/de455d653301)[https://www.jianshu.com/p/de455d653301](https://www.jianshu.com/p/de455d653301)
 
-![](.gitbook/assets/image%20%2821%29.png)
+![](.gitbook/assets/image%20%2822%29.png)
 
 安裝pycocotools成功，但後面還是有問題...
 

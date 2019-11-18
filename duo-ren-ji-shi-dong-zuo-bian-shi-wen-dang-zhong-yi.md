@@ -75,9 +75,13 @@ s1_get_skeletons_from_training_imgs.py:
 
 命名標準被定義為image\_filename\_format: "{:05d}.jpg"
 
+用來訓練動作的照片會被定義在data/source\_images3/valid\_images.txt.
 
+內容/格式如圖:
 
+![](.gitbook/assets/image%20%284%29.png)
 
+52~59以及72~79是正在做跳躍的影格
 
 
 
