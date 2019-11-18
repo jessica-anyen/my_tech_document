@@ -26,7 +26,13 @@ description: Multi-person Real-time Action Recognition Based-on Human Skeleton
 
 6. 擷取特徵:1\)肢體速度 2\)正規化關節位置 3\)關節點速率
 
-7. 使用PCA\(主元素萃取\)，降低維度到80，使用3層DNN，每層50個節點\(見  [lib\_classifier.py](https://github.com/felixchenfy/Realtime-Action-Recognition/blob/master/utils/lib_classifier.py)/class ClassifierOfflineTrain\)
+7. 使用PCA\(主成分分析\)，降低維度到80，使用3層DNN，每層50個節點\(見  [lib\_classifier.py](https://github.com/felixchenfy/Realtime-Action-Recognition/blob/master/utils/lib_classifier.py)/class ClassifierOfflineTrain\)
+
+{% hint style="info" %}
+pca主成分分析:
+
+[https://ithelp.ithome.com.tw/articles/10206243](https://ithelp.ithome.com.tw/articles/10206243)
+{% endhint %}
 
 {% hint style="info" %}
 dnn 深度神經網路
