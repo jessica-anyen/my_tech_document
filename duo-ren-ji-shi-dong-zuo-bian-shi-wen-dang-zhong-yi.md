@@ -34,7 +34,15 @@ dnn 深度神經網路
 [https://medium.com/%E4%B8%80%E4%BA%BA%E5%A4%9A%E5%B7%A5%E5%B7%A5%E4%BD%9C%E5%AE%A4/dnn-%E6%B7%B1%E5%BA%A6%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF-cf892cbb06d5](https://medium.com/%E4%B8%80%E4%BA%BA%E5%A4%9A%E5%B7%A5%E5%B7%A5%E4%BD%9C%E5%AE%A4/dnn-%E6%B7%B1%E5%BA%A6%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF-cf892cbb06d5)
 {% endhint %}
 
+8. 平均過濾兩影格之間的預測分數，當預測分數大於0.8的時候，添加標籤\(見  [lib\_classifier.py](https://github.com/felixchenfy/Realtime-Action-Recognition/blob/master/utils/lib_classifier.py) /class ClassifierOnlineTest
+
+\#如何包含頭部節點?
+
+在add\_cur\_skeleton函式中修改\(見  [utils/lib\_feature\_proc.py](https://github.com/felixchenfy/Realtime-Action-Recognition/blob/master/utils/lib_feature_proc.py)/ class FeatureGenerator/ def add\_cur\_skeleton\)
 
 
-\`\`
+
+
+
+
 
