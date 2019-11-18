@@ -9,4 +9,5 @@
 * [需要嘗試的文件](xu-yao-chang-shi-de-wen-jian.md)
 * [Ubuntu on windows](ubuntu-on-windows.md)
 * [多人即時動作辨識](duo-ren-ji-shi-dong-zuo-bian-shi.md)
+* [多人即時動作辨識\_文檔中譯](duo-ren-ji-shi-dong-zuo-bian-shi-wen-dang-zhong-yi.md)
 
