@@ -87,6 +87,8 @@ s1_get_skeletons_from_training_imgs.py:
 
 #### \#訓練過程
 
+收集資料--&gt;給予標籤--&gt;符合config規定--&gt;跑完s1~s4程式--&gt;使用s5檢測
+
 
 
 
