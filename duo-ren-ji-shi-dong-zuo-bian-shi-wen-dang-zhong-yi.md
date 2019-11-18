@@ -69,6 +69,14 @@ s1_get_skeletons_from_training_imgs.py:
 
 #### \#如何訓練資料
 
+\#資料格式
+
+每一個子資料夾\(例如:data/source\_images3/jump\_03-02-12-34-01-795/\)包含圖片0001. jpg、0002. jpg 等等
+
+命名標準被定義為image\_filename\_format: "{:05d}.jpg"
+
+
+
 
 
 
