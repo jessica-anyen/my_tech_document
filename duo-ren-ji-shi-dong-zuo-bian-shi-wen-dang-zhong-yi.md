@@ -45,7 +45,7 @@ dnn 深度神經網路
 1. 修改add\_cur\_skeleton，藉由前一骨架輸出
 2. 修改 utils/lib\_classifier.py 當中的 `class ClassifierOfflineTrain` 中的\_\_init\_\_ 和 predict
 
-
+輸出輸入格式的設定在   config/config.yaml  裡
 
 
 
