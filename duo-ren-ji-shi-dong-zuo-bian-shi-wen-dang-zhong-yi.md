@@ -67,6 +67,14 @@ s1_get_skeletons_from_training_imgs.py:
     viz_imgs_folders: data_proc/raw_skeletons/image_viz/
 ```
 
+#### \#如何訓練資料
+
+
+
+
+
+
+
 
 
 
