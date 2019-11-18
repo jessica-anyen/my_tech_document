@@ -45,7 +45,27 @@ dnn 深度神經網路
 1. 修改add\_cur\_skeleton，藉由前一骨架輸出
 2. 修改 utils/lib\_classifier.py 當中的 `class ClassifierOfflineTrain` 中的\_\_init\_\_ 和 predict
 
-輸出輸入格式的設定在   config/config.yaml  裡
+輸出輸入格式的設定在   config/config.yaml  裡 
+
+-Classes 定義動作種類
+
+-skeleton\_filename\_format:定義骨架輸出格式
+
+-window\_size設定抓取特徵時，要讀幾個相鄰的影格
+
+```text
+s1_get_skeletons_from_training_imgs.py:
+  openpose:
+    model: cmu # cmu or mobilenet_thin. "cmu" is more accurate but slower.
+    img_size: 656x368 #  656x368, or 432x368, 336x288. Bigger is more accurate.
+  input:
+    images_description_txt: data/source_images3/valid_images.txt
+    images_folder: data/source_images3/
+  output:
+    images_info_txt: data_proc/raw_skeletons/images_info.txt # This file is not used.
+    detected_skeletons_folder: &skels_folder data_proc/raw_skeletons/skeleton_res/
+    viz_imgs_folders: data_proc/raw_skeletons/image_viz/
+```
 
 
 
