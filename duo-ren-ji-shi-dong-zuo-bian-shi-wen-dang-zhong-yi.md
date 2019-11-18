@@ -40,6 +40,10 @@ dnn 深度神經網路
 
 在add\_cur\_skeleton函式中修改\(見  [utils/lib\_feature\_proc.py](https://github.com/felixchenfy/Realtime-Action-Recognition/blob/master/utils/lib_feature_proc.py)/ class FeatureGenerator/ def add\_cur\_skeleton\)
 
+\#如何更換rnn分類器
+
+
+
 
 
 
