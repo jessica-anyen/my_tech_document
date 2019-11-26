@@ -95,6 +95,10 @@ s1_get_skeletons_from_training_imgs.py:
 
 收集資料--&gt;給予標籤--&gt;符合config規定--&gt;跑完s1~s4程式--&gt;使用s5檢測
 
+{% hint style="info" %}
+注意:不能只訓練一個動作，要至少兩個。例如:"dab"和"other"，才不會出錯
+{% endhint %}
+
 
 
 
