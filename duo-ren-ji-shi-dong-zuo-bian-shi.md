@@ -32,6 +32,14 @@ mpl.use('TKAgg')
 
 #### \#demo
 
+切換conda環境\(使用tf\)
+
+```text
+conda activate tf
+```
+
+
+
 影片
 
 ```text
