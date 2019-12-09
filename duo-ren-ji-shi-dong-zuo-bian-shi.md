@@ -38,8 +38,6 @@ mpl.use('TKAgg')
 conda activate tf
 ```
 
-
-
 影片
 
 ```text
@@ -67,6 +65,12 @@ python src/s5_test.py \
 ```text
 C:\Users\MMN-AI\Documents\GitHub\r_a_r\output\exercise
 ```
+
+#### -輸出影片的framerate調整
+
+在config當中，s5設定的地方。output video\_fps即可調整\(但分析時frame rate一定要是10 fps，輸出影片是檢視用，所以可以不同\)
+
+![](.gitbook/assets/image%20%2813%29.png)
 
 #### \#限制
 
