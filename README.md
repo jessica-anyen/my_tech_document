@@ -88,7 +88,7 @@ build就是在那包code的位址下面建一個資料夾\(我是命名成build
 
 等待Configure Done
 
-![](.gitbook/assets/image%20%2833%29.png)
+![](.gitbook/assets/image%20%2834%29.png)
 
 勾選bulid python\(這步一定要做\)，按下generate
 
@@ -188,7 +188,7 @@ build\x64\Release\OpenPoseDemo.exe --video examples\media\video.avi --face --han
 
 結果
 
-![](.gitbook/assets/image%20%2830%29.png)
+![](.gitbook/assets/image%20%2831%29.png)
 
 基本的就完成拉~
 
