@@ -32,7 +32,9 @@ pyuic5 filename.ui > filename.py
 
 -py 裡global變數的用法[https://extenshu.com/2017/09/24/python%E5%88%9D%E5%AD%B8%E9%87%8D%E9%BB%9E-05-global%E8%AE%8A%E6%95%B8/](https://extenshu.com/2017/09/24/python%E5%88%9D%E5%AD%B8%E9%87%8D%E9%BB%9E-05-global%E8%AE%8A%E6%95%B8/)
 
+-彈出視窗\(alert效果\)
 
+[https://zhuanlan.zhihu.com/p/29795495](https://zhuanlan.zhihu.com/p/29795495)
 
 
 
