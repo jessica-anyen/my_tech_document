@@ -11,4 +11,5 @@
 * [多人即時動作辨識](duo-ren-ji-shi-dong-zuo-bian-shi.md)
 * [多人即時動作辨識\_文檔中譯](duo-ren-ji-shi-dong-zuo-bian-shi-wen-dang-zhong-yi.md)
 * [python GUI](python-gui.md)
+* [python技巧整理](python-ji-qiao-zheng-li.md)
 
