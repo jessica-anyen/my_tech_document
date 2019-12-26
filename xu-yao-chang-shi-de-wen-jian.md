@@ -1,5 +1,19 @@
 # 需要嘗試的文件
 
+
+
+
+
+-使用ucf101
+
+[https://github.com/HHTseng/video-classification](https://github.com/HHTseng/video-classification)
+
+-可對同一動作做出不同解釋
+
+[https://github.com/vt-vl-lab/iCAN](https://github.com/vt-vl-lab/iCAN)
+
+
+
 -簡單定義動作的範例
 
 [https://github.com/TianzhongSong/Real-Time-Action-Recognition](https://github.com/TianzhongSong/Real-Time-Action-Recognition)
