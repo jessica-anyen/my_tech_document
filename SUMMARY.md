@@ -13,4 +13,5 @@
 * [python GUI](python-gui.md)
 * [python技巧整理](python-ji-qiao-zheng-li.md)
 * [待完成事項](dai-wan-cheng-shi-xiang.md)
+* [ubuntu常用指令](ubuntu-chang-yong-zhi-ling.md)
 
