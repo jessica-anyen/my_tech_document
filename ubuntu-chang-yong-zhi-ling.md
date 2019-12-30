@@ -12,3 +12,9 @@ lsb_release -a
 nvidia-smi
 ```
 
+當conda activate無效
+
+```text
+https://www.jianshu.com/p/cd0096b24b43
+```
+
