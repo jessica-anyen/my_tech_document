@@ -30,6 +30,24 @@ mpl.use('TKAgg')
 
 才會正確跑出圖
 
+#### \#安裝在ubuntu時的cuda+cudnn問題（cudnn初始化問題）
+
+有可能會出現"UnknownError \(see above for traceback\): Failed to get convolution algorithm. This is probably because cuDNN failed to initialize, so try looking to see if a warning log message was printed above."錯誤訊息
+
+解決方法：
+
+```text
+在腳本前添加：
+# jc add for cudnn初始化問題
+from tensorflow.compat.v1 import ConfigProto
+from tensorflow.compat.v1 import InteractiveSession
+
+config = ConfigProto()
+config.gpu_options.allow_growth = True
+session = InteractiveSession(config=config)
+#
+```
+
 ### \#demo
 
 切換conda環境\(使用tf\)
