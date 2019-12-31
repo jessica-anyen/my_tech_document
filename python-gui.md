@@ -40,5 +40,7 @@ designer
 
 [https://zhuanlan.zhihu.com/p/29795495](https://zhuanlan.zhihu.com/p/29795495)
 
+-ubuntu使用
 
+[https://blog.csdn.net/qq\_33571896/article/details/79507843](https://blog.csdn.net/qq_33571896/article/details/79507843)
 
