@@ -8,7 +8,7 @@ description: Multi-person Real-time Action Recognition Based-on Human Skeleton
 
 {% embed url="https://github.com/jessica-anyen/Realtime-Action-Recognition" %}
 
-### \#安裝注意事項:
+#### \#安裝注意事項:
 
 基本上按照readme進行安裝即可，環境請參考"ubuntu on windows"那篇的設定
 
@@ -30,25 +30,7 @@ mpl.use('TKAgg')
 
 才會正確跑出圖
 
-#### \#安裝在ubuntu時的cuda+cudnn問題（cudnn初始化問題）
-
-有可能會出現"UnknownError \(see above for traceback\): Failed to get convolution algorithm. This is probably because cuDNN failed to initialize, so try looking to see if a warning log message was printed above."錯誤訊息
-
-解決方法：
-
-```text
-在腳本前添加：
-# jc add for cudnn初始化問題
-from tensorflow.compat.v1 import ConfigProto
-from tensorflow.compat.v1 import InteractiveSession
-
-config = ConfigProto()
-config.gpu_options.allow_growth = True
-session = InteractiveSession(config=config)
-#
-```
-
-### \#demo
+#### \#demo
 
 切換conda環境\(使用tf\)
 
@@ -76,7 +58,7 @@ python src/s5_test.py \
     --output_folder output
 ```
 
-### \#跑完的結果
+#### \#跑完的結果
 
 存放位置:
 
@@ -98,7 +80,7 @@ C:\Users\MMN-AI\Documents\GitHub\r_a_r\output\exercise
 
 -訓練資料需具多角度樣本，否則在識別過程中可能因為角度問題，導致識別失敗
 
-### \#常見QA
+#### \#常見QA
 
 1.人物id\(P??\)是由哪一支程式判斷?
 
