@@ -12,11 +12,15 @@ C:\Users\MMN-AI\Miniconda3\envs\nowpy3\Scripts
 pyuic5 filename.ui > filename.py
 ```
 
+#### \#ubuntu用法
 
+欲開啟designer只須在終端輸入, 即可進入頁面
 
+```text
+designer
+```
 
-
-\#參考資料
+### \#參考資料
 
 -ui-&gt;py轉換
 
