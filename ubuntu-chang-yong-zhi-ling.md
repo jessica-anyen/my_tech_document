@@ -10,5 +10,18 @@ lsb_release -a
 
 ```text
 nvidia-smi
+nvidia-smi-L
+```
+
+當conda activate無效
+
+```text
+#來源
+https://www.jianshu.com/p/cd0096b24b43
+
+# 激活环境
+source activate
+# 退出环境
+source deactivate
 ```
 
