@@ -4,7 +4,13 @@
 
 [https://github.com/TerryShu/BracketsWasher](https://github.com/TerryShu/BracketsWasher)
 
+-matplotlib畫圖
 
+{% embed url="http://bigsec.net/b52/scipydoc/matplotlib\_intro.html" %}
+
+-matplotlib畫圖大全
+
+[https://blog.csdn.net/helunqu2017/article/details/78659490](https://blog.csdn.net/helunqu2017/article/details/78659490)
 
 -使用ucf101
 
