@@ -4,9 +4,7 @@
 
 [https://github.com/TerryShu/BracketsWasher](https://github.com/TerryShu/BracketsWasher)
 
--matplotlib畫圖
 
-[http://bigsec.net/b52/scipydoc/matplotlib\_intro.html](http://bigsec.net/b52/scipydoc/matplotlib_intro.html)
 
 -使用ucf101
 
