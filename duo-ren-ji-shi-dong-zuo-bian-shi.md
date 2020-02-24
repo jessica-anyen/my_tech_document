@@ -90,6 +90,10 @@ C:\Users\MMN-AI\Documents\GitHub\r_a_r\output\exercise
 
 ![](.gitbook/assets/image%20%2813%29.png)
 
+#### \#demo影片
+
+[https://drive.google.com/open?id=1zcTlurP5RjJeDYtTZJx1haB3\_QhfuxDz](https://drive.google.com/open?id=1zcTlurP5RjJeDYtTZJx1haB3_QhfuxDz)
+
 #### \#限制
 
 -不能使用單一張圖片，必須是連續影片
