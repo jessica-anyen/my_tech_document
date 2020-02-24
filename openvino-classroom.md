@@ -8,9 +8,18 @@
 
 
 
+![](.gitbook/assets/image%20%2825%29.png)
 
-
-
+```text
+#啟用圖形化介面安裝
+sudo ./install_GUI.sh
+#切換到預設安裝的路徑
+cd /opt/intel/openvino/install_dependencies/
+#將openvino環境開啟(這一步美重開一個終端機都要做)
+source /opt/intel/openvino/bin/setupvars.sh
+#
+cd /
+```
 
 
 

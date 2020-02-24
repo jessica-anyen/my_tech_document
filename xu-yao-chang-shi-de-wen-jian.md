@@ -12,6 +12,10 @@
 
 [https://blog.csdn.net/helunqu2017/article/details/78659490](https://blog.csdn.net/helunqu2017/article/details/78659490)
 
+-學長說要試試的yt創客影片
+
+[https://www.youtube.com/watch?v=gtKLRukldWQ](https://www.youtube.com/watch?v=gtKLRukldWQ)
+
 -使用ucf101
 
 [https://github.com/HHTseng/video-classification](https://github.com/HHTseng/video-classification)

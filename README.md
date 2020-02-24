@@ -88,11 +88,11 @@ build就是在那包code的位址下面建一個資料夾\(我是命名成build
 
 等待Configure Done
 
-![](.gitbook/assets/image%20%2835%29.png)
+![](.gitbook/assets/image%20%2836%29.png)
 
 勾選bulid python\(這步一定要做\)，按下generate
 
-![](.gitbook/assets/image%20%2827%29.png)
+![](.gitbook/assets/image%20%2828%29.png)
 
 到build/OpenPose.sln路徑下，對專案右鍵--&gt;開啟檔案--&gt;選擇vs
 
@@ -146,7 +146,7 @@ build\x64\Release\OpenPoseDemo.exe --image_dir examples\media\ --face --hand
 
 找到image path，將所使用的檔名+副檔名改上去
 
-![](.gitbook/assets/image%20%2829%29.png)
+![](.gitbook/assets/image%20%2830%29.png)
 
 release mode 下建置
 
@@ -188,7 +188,7 @@ build\x64\Release\OpenPoseDemo.exe --video examples\media\video.avi --face --han
 
 結果
 
-![](.gitbook/assets/image%20%2832%29.png)
+![](.gitbook/assets/image%20%2833%29.png)
 
 基本的就完成拉~
 

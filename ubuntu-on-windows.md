@@ -59,5 +59,5 @@ mpl.use('TKAgg')
 
 6. 應該就能跑圖了，不能跑起來的話就手動雙擊xming，開啟他
 
-![](.gitbook/assets/image%20%2833%29.png)
+![](.gitbook/assets/image%20%2834%29.png)
 

@@ -74,11 +74,11 @@ parser.add_argument('--openpose',
 
 
 
-![](.gitbook/assets/image%20%2826%29.png)
+![](.gitbook/assets/image%20%2827%29.png)
 
 按下這個run鍵，選擇"open terminal"
 
-![](.gitbook/assets/image%20%2834%29.png)
+![](.gitbook/assets/image%20%2835%29.png)
 
 前面的括號代表環境，可以確定現在的環境是nowpy3
 
@@ -126,7 +126,7 @@ C:\Users\MMN-AI\Documents\GitHub\st-gcn\data\openpose_estimation\data
 
 分析結果的影片檔案比較大，使用windows的player打不開，需要右鍵&gt;使用其他媒體播放器
 
-![](.gitbook/assets/image%20%2831%29.png)
+![](.gitbook/assets/image%20%2832%29.png)
 
 ### 結果
 
@@ -136,7 +136,7 @@ C:\Users\MMN-AI\Documents\GitHub\st-gcn\data\openpose_estimation\data
 
 嗯...雖然有些結果還是非常怪@@ \(這部片的人物在走路，但卻推論成在擲硬幣
 
-![](.gitbook/assets/image%20%2828%29.png)
+![](.gitbook/assets/image%20%2829%29.png)
 
 {% hint style="info" %}
 0916後續補充

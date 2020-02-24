@@ -12,11 +12,15 @@ C:\Users\MMN-AI\Miniconda3\envs\nowpy3\Scripts
 pyuic5 filename.ui > filename.py
 ```
 
+#### \#ubuntu用法
 
+欲開啟designer只須在終端輸入, 即可進入頁面
 
+```text
+designer
+```
 
-
-\#參考資料
+### \#參考資料
 
 -ui-&gt;py轉換
 
@@ -24,7 +28,7 @@ pyuic5 filename.ui > filename.py
 
 -在py腳本中執行另一個py
 
-![](.gitbook/assets/image%20%2830%29.png)
+![](.gitbook/assets/image%20%2831%29.png)
 
 [https://zhidao.baidu.com/question/137156858.html](https://zhidao.baidu.com/question/137156858.html)
 
@@ -36,5 +40,7 @@ pyuic5 filename.ui > filename.py
 
 [https://zhuanlan.zhihu.com/p/29795495](https://zhuanlan.zhihu.com/p/29795495)
 
+-ubuntu使用
 
+[https://blog.csdn.net/qq\_33571896/article/details/79507843](https://blog.csdn.net/qq_33571896/article/details/79507843)
 
