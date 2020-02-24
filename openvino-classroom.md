@@ -4,6 +4,8 @@
 
 [https://docs.openvinotoolkit.org/2020.1/\_docs\_install\_guides\_installing\_openvino\_linux.html\#install-external-dependencies](https://docs.openvinotoolkit.org/2020.1/_docs_install_guides_installing_openvino_linux.html#install-external-dependencies)
 
+參考指令
+
 
 
 
