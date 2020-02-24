@@ -1,5 +1,11 @@
 # openvino classroom c++ 安裝教學
 
+1. 先照這篇的說明安裝好openvino\(注意：解壓縮請用指令，手動解開會有問題\)
+
+[https://docs.openvinotoolkit.org/2020.1/\_docs\_install\_guides\_installing\_openvino\_linux.html\#install-external-dependencies](https://docs.openvinotoolkit.org/2020.1/_docs_install_guides_installing_openvino_linux.html#install-external-dependencies)
+
+
+
 
 
 
