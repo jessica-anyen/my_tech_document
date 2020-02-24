@@ -14,5 +14,5 @@
 * [python技巧整理](python-ji-qiao-zheng-li.md)
 * [待完成事項](dai-wan-cheng-shi-xiang.md)
 * [ubuntu常用指令](ubuntu-chang-yong-zhi-ling.md)
-* [openvino classroom](openvino-classroom.md)
+* [openvino classroom c++ 安裝教學](openvino-classroom.md)
 
