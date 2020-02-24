@@ -59,7 +59,7 @@ cd /home/mmn/omz_demos_build/intel64/Release
 
 可發現雖然只有站著跟坐著兩種動作，但是判斷效果一般。例如:只有照到半身的畫面會自動判斷為"坐著"，靠太近的人也無法判斷
 
-
+[https://drive.google.com/file/d/1mMhZAYXw4z32jRwqYFGR94ODmGsMRxEM/view?usp=sharing](https://drive.google.com/file/d/1mMhZAYXw4z32jRwqYFGR94ODmGsMRxEM/view?usp=sharing)
 
 ## \#參考文件
 
