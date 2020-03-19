@@ -1,5 +1,9 @@
 # 需要嘗試的文件
 
+-plotly
+
+[https://plot.ly/python/](https://plot.ly/python/)
+
 -一修的github
 
 [https://github.com/TerryShu/BracketsWasher](https://github.com/TerryShu/BracketsWasher)
