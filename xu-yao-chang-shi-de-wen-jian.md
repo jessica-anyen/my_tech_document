@@ -1,5 +1,9 @@
 # 需要嘗試的文件
 
+-python 速查手冊
+
+[http://kaiching.org/pydoing/py/python-manual.html](http://kaiching.org/pydoing/py/python-manual.html)
+
 -plotly
 
 [https://plot.ly/python/](https://plot.ly/python/)
