@@ -25,3 +25,11 @@ source activate
 source deactivate
 ```
 
+影片剪輯
+
+```text
+openshot-qt
+```
+
+
+
