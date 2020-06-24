@@ -46,3 +46,15 @@ file '01M38S_1592452898.mp4'
 */
 ```
 
+檔案分割
+
+```text
+split -n 4 making06.MP4 "making06.MP4.part"
+/*
+-n:均分
+4:分成幾份
+making06.MP4：要分割的檔案
+"making06.MP4.part"：分割後的檔名
+*/
+```
+
