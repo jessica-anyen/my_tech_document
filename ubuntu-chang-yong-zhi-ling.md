@@ -46,7 +46,7 @@ file '01M38S_1592452898.mp4'
 */
 ```
 
-檔案分割
+檔案分割（mp4分割後會變得不能用...
 
 ```text
 split -n 4 making06.MP4 "making06.MP4.part"
